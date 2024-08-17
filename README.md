@@ -17,12 +17,10 @@ k dimensions. The obtained confidence intervals recover the 1 / sqrt(n) rate in 
 
 
 # Table of Contents
-- Installation
-- Quick Start
-- Functionality
-- API Details
-- Authors
-- Citation
+- [Installation](#installation)
+- [Requirements](#requirements)
+- [Functionality](#functionality)
+- [Citation](#citation)
 
 
 # Installation
