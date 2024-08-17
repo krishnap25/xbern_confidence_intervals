@@ -1,6 +1,6 @@
 # Adaptive Confidence Intervals for Exchangeable Bernoulli (XBern) Means
 
-**NOTE**: This library has been extracted from the open-source code at [this link](https://github.com/google-research/federated/tree/master/lidp_auditing). Please refer to the license there for details.
+**NOTE**: This library has been extracted from the open-source code at [this link](https://github.com/google-research/federated/tree/master/lidp_auditing). Please refer to the license there (Apache 2.0 license) for details, which is also applicable to this package.
 
 An XBern or exchangeable Bernoulli distribution is a probability distribution
 over binary vectors which is exchangeable, i.e., the probability mass does not
