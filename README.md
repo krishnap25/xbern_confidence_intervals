@@ -44,7 +44,7 @@ The installation command above installs the main requirements, which are:
 
 #  Functionality
 
-We give a quick overview of the API here. Please see [xbern_demo.ipynb](xbern_demo.ipynb) for a full tour of the features.
+We give a quick overview of the API here. Please see [xbern_demo.ipynb](https://github.com/krishnap25/xbern_confidence_intervals/xbern_demo.ipynb) for a full tour of the features.
 
 The API works as follows:
 

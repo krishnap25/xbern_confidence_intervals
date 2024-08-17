@@ -1,11 +1,16 @@
 from setuptools import setup, find_packages
 
+with open("README.md", "r", encoding="utf-8") as fh:
+    long_description = fh.read()
+
 setup(
     name='xbern_confidence_intervals',
-    version='0.1.0',
+    version='1.0.0',
     author='Krishna Pillutla',
     author_email='krishnap@dsai.iitm.ac.in',
     description='Compute adaptive confidence intervals for XBern distributions',
+    long_description=long_description,
+    long_description_content_type="text/markdown",
     package_dir={"": "src"},
     packages=find_packages(where="src"),
     classifiers=[
